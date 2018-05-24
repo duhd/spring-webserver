@@ -44,12 +44,12 @@ Both approaches use environment variables to set:
 
 Once the nodes are started, you can access the node's frontend at the following address:
 
-    `localhost:10011`
+    localhost:10011
 
 And you can access the REST endpoints at:
 
-    `localhost:10011/[ENDPOINT]`
+    localhost:10011/[ENDPOINT]
 
 For example, you can check the node's status using:
 
-    `localhost:10011/status`
+    localhost:10011/status
