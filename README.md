@@ -62,12 +62,12 @@ You can also start the webserver for Party A using the `Run PartyA Server` Intel
 
 Once the nodes are started, you can access the node's frontend at the following address:
 
-    localhost:10008
+    localhost:10055
 
 And you can access the REST endpoints at:
 
-    localhost:10008/[ENDPOINT]
+    localhost:10055/[ENDPOINT]
 
 For example, you can check the node's status using:
 
-    localhost:10008/status
+    localhost:10055/status
